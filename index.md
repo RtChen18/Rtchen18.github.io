@@ -6,7 +6,7 @@ major in Material Chemistry
 
 ### Education backgrounds
 07.2022 (expected) - 09.2018    University of Science and Technology of China (USTC), Hefei, China
-06.2018 - 09.2015    No.1 High School of Huaibei Anhui, Huaibei, China
+06.2018 - 09.2015     No.1 High School of Huaibei Anhui, Huaibei, China
 
 ### Scholarships and prizes
 
