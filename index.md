@@ -1,8 +1,12 @@
-## Education background
+## Ruitian Chen (陈瑞天)
 
-You can use the [editor on GitHub](https://github.com/RtChen18/Rtchen18.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+senior undergraduate 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+major in Material Chemistry
+
+### Education backgrounds
+07.2022 (expected) - 09.2018    University of Science and Technology of China (USTC), Hefei, China
+06.2018 - 09.2015    No.1 High School of Huaibei Anhui, Huaibei, China
 
 ### Scholarships and prizes
 
